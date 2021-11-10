@@ -5,7 +5,7 @@ PAYROLL SYSTEM - C#
 Username : admin
 Password : admin
 
-**Developed By Janno Palacios**
+**Developed By stephen lankas**
 
 START XAMPP, 
 GO TO localhost/phpmyadmin TO CREATE A DATABASE NAMING "payrolldb" AND IMPORT THE SQL FILE TO RUN.
